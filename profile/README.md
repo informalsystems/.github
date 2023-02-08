@@ -2,7 +2,8 @@
 
 Welcome to our Github!
 
-We work on a lot of cool open-source software at Informal Systems, with particular emphasis on the [Cosmos Ecosystem](https://cosmos.network/). 
+Informal Systems is an employee-owned organization working on a ton of open-source software, 
+with particular emphasis on the [Cosmos Ecosystem](https://cosmos.network/). 
 But we're also pushing the boundary on making formal methods software more accessible to developers. 
 
 See below for an index of some of our work on [Cosmos](#Cosmos) and on [Formal Methods](#formal-methods)!
