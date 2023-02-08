@@ -4,7 +4,7 @@ Welcome to our Github!
 
 Informal Systems is an employee-owned organization working on a ton of open-source software, 
 with particular emphasis on the [Cosmos Ecosystem](https://cosmos.network/). 
-We're also pushing the boundary on making formal methods software more accessible to developers. 
+But we're also pushing the boundary on making formal methods software more accessible to developers. 
 
 See below for an index of some of our work on [Cosmos](#Cosmos) and on [Formal Methods](#formal-methods)!
 
@@ -54,7 +54,7 @@ We also developed Quint, an alternative syntax for TLA+, designed to make writin
 
 - [Apalache] - symbolic model checker for TLA+
 - [Quint] - a delightful specification language with modern tooling
-- [Modelator] - an engine for model-based testsing
+- [Modelator] - an engine for model-based testing
 
 [Apalache]: https://github.com/informalsystems/apalache
 [Quint]: https://github.com/informalsystems/quint
