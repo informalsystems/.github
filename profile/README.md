@@ -2,7 +2,7 @@
 
 Welcome to our Github!
 
-Informal Systems is an employee-owned organization working on a ton of open-source software, 
+Informal Systems is an employee-owned organization working on lots of open-source software, 
 with particular emphasis on the [Cosmos Ecosystem](https://cosmos.network/). 
 We're also pushing the boundary on making formal methods software more accessible to developers. 
 
@@ -10,8 +10,8 @@ See below for an index of some of our work on [Cosmos](#Cosmos) and on [Formal M
 
 ## Cosmos
 
-We believe the Cosmos values of sovereignty and interoperability are essential to the birth and growth of a healthy interchain economy.
-We're proud to play a key role in bringing nurturing the interchain as stewards of core pieces of the Cosmos stack,
+We believe the Cosmos values of sovereignty and interoperability are essential to a healthy interchain economy.
+We're proud to play a key role in nurturing the interchain as stewards of core pieces of the Cosmos stack,
 including [CometBFT](https://cometbft.com)
 and the [Cosmos Hub](https://hub.cosmos.network/). 
 
@@ -25,7 +25,7 @@ In our Github org, you can find:
 
 - [tendermint-rs] - rust libraries for interacting with tendermint or CometBFT
 - [hermes] - industry leading IBC relayer software
-- [atomkraft] - advanced fuzz testing for Cosmos applications
+- [cosmwasm-to-quint] - advanced fuzz testing for CosmWasm applications
 - [multisig] - manage multisigs across many keys and chains
 - [stakooler] - simplify accounting for staking rewards
 - [basecoin-rs] - simple rust application built with ABCI and IBC
@@ -35,7 +35,7 @@ In our Github org, you can find:
 
 [tendermint-rs]: https://github.com/informalsystems/tendermint-rs
 [hermes]: https://github.com/informalsystems/hermes
-[atomkraft]: https://github.com/informalsystems/atomkraft
+[cosmwasm-to-quint]: https://github.com/informalsystems/cosmwasm-to-quint
 [multisig]: https://github.com/informalsystems/multisig
 [stakooler]: https://github.com/informalsystems/stakooler
 [basecoin-rs]: https://github.com/informalsystems/basecoin-rs
@@ -46,19 +46,17 @@ In our Github org, you can find:
 ## Formal Methods
 
 We believe that formal specification is critical to improving the quality of software development and we are committed to making formal
-methods more accessible to the average developer.
+methods more accessible to the average developer with delightful tooling.
 
-We lead development of Apalache, a symbolic model checker for TLA+, designed to make TLA+ tooling more delightful for engineers.
+We built Quint, a specification language designed to delight engineers. Quint builds on the semantics of the widely adopted TLA+ language but introduces modern syntax and tooling that is more familiar to, and usable by, everyday software engineers.
 
-We also developed Quint, an alternative syntax for TLA+, designed to make writing specifications an absolute delight! Check out our formal methods work below:
+We also built Apalache, a symbolic model checker for TLA+ and Quint, enabling advanced invariant checking for specifications.
 
-- [Apalache] - symbolic model checker for TLA+
 - [Quint] - a delightful specification language with modern tooling
-- [Modelator] - an engine for model-based testsing
+- [Apalache] - symbolic model checker for TLA+
 
 [Apalache]: https://github.com/informalsystems/apalache
 [Quint]: https://github.com/informalsystems/quint
-[Modelator]: https://github.com/informalsystems/modelator
 
 We leverage our tools to perform industry leading audits on blockchain software. [Contact us](https://informal.systems/services/security-audits) for an audit today!
 
